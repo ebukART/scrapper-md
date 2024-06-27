@@ -23,13 +23,13 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254102074064']
-global.ownMain = '254102074064'
-global.NamaOwner = '⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々' //gausah diganti 
+global.owner = ['2348022159244']
+global.ownMain = '2348022159244'
+global.NamaOwner = '⟠ ᗰᗴᏞᎢᏆᑎᏀ ᑭ❣️ᏆᑎᎢ 々' //gausah diganti 
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '⿻𝐑𝐀𝐕𝐄𝐍 𝐌𝐃⿻' //ganti aj klo mau
-global.author = '⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々' //ganti aj klo mau
+global.author = '⟠ ᗰᗴᏞᎢᏆᑎᏀ ᑭ❣️ᏆᑎᎢ 々' //ganti aj klo mau
 global.packname = '⿻𝐑𝐀𝐕𝐄𝐍 𝐌𝐃⿻' //ganti aj klo mau
 global.url = 'https://tinyurl.com/2637xxrt' //gausah diganti
 
